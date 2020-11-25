@@ -1,7 +1,8 @@
-## Instructions to run
+## Instructions to run (no changes)
 
-1. `npm run start` to run the app
-2. `npm run api-server` to run the server (i.e. no changes to either)
+1. `npm intall` for all dependencies 
+2. `npm run start` to run the app
+3. `npm run api-server` to run the server
 
 
 ## Intent
